@@ -1,7 +1,7 @@
 {
   "name": "todolistappreact",
   "version": "0.1.0",
-  "homepage": “https://shelialia.github.io/toDoList_webpage“,
+  "homepage": "https://shelialia.github.io/toDoList_webpage/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
